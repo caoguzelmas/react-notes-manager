@@ -5,6 +5,12 @@
       "title": "Title",
       "content": "Content",
       "created_at": "17/02/2023"
+    },
+    {
+      "id": 2,
+      "title": "Title",
+      "content": "Content",
+      "created_at": "17/02/2023"
     }
   ]
 }

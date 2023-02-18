@@ -1,3 +1,10 @@
+import { NoteList } from "containers/NoteList/NoteList";
+
 export function NoteBrowse() {
-  return <>Note Browse</>;
+  return (
+    <>
+      asdasd
+      <NoteList />
+    </>
+  );
 }
