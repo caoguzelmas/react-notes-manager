@@ -19,7 +19,9 @@ export function App() {
   return (
     <div>
       <Header />
-      <Outlet />
+      <div className="mt-5">
+        <Outlet />
+      </div>
     </div>
   );
 }
