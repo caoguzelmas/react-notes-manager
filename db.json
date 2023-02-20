@@ -1,3 +1,22 @@
 {
-  "notes": []
+  "notes": [
+    {
+      "title": "asd",
+      "content": "asd",
+      "created_at": "20.02.2023",
+      "id": 1
+    },
+    {
+      "title": "123",
+      "content": "123",
+      "created_at": "20.02.2023",
+      "id": 2
+    },
+    {
+      "title": "a123",
+      "content": "xyz",
+      "created_at": "20.02.2023",
+      "id": 3
+    }
+  ]
 }
